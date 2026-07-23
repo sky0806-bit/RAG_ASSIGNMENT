@@ -1,0 +1,9 @@
+Artificial Intelligence (AI) is the simulation of human intelligence by machines.
+
+Machine Learning is a subset of AI that enables computers to learn from data without being explicitly programmed.
+
+Deep Learning is a subset of Machine Learning that uses neural networks with multiple layers.
+
+Natural Language Processing (NLP) helps computers understand and generate human language.
+
+Retrieval-Augmented Generation (RAG) combines information retrieval with Large Language Models to generate accurate answers based on external documents.
